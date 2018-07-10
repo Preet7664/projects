@@ -1,0 +1,32 @@
+*{margin: 0px;padding: opx;}
+
+body{font-family:arial;background-color: #717173;}
+
+.pagewidth::after {content: "";
+}
+
+.pagewidth {width: 1004px;margin: 150px auto;background-color: #ffffff;height: 700px;}
+/* End: .Pagewidth */
+
+.headersec {background-color: #ff7f00;margin-top: 30px;width: 974px;margin: 15px auto 0px auto;padding-bottom: 30px;display: inline-block;margin-left: 15px;color: #ffffff;}
+.headersec .content{margin-top: 25px;margin-left: 20px;}
+
+.navbar ul li{list-style: none;}
+.navbar ul li a{text-decoration: none;display: inline-block;float: left;font-size: 16px;padding-left: 15px;margin-top:20px;color: #787878;font-weight: bold;}
+/* end.navbar */
+
+div.leftcontent{ width: 173px; float: left; padding: 20px 18px; background: #01a0c7;margin-left: 20px;height: 250px;color: #ffffff;}
+div.rightcontent{ width: 700px; padding: 20px 15px; float: left; background: #ff4001; padding-right: 20px;margin-left: 20px;font-size: 20px;color: #ffffff;}
+.leftcontent p{font-size: 14px;padding-top: 5px;}
+.leftcontent h3{font-size: 16px;margin: 10px 0px;}
+.leftcontent h3{font-size: 16px;margin: 10px 0px;}
+.paragraph p{width: 900px;}
+.paragraph {margin-left: 20px;}
+
+
+
+
+
+
+
+
